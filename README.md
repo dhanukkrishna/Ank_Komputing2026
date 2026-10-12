@@ -1,2 +1,4 @@
 # ank_2026
-This repo includes all the work I will be doing during my internship.
+# Internship Portfolio 
+
+This repository contains all the code, data exploration, and projects I developed during my internship at Ank Komputing.
