@@ -1,0 +1,15 @@
+{
+  "best_model": "GNN (with edge features)",
+  "config": {
+    "HIDDEN": 64,
+    "NUM_LAYERS": 4,
+    "LR": 0.002,
+    "EPOCHS": 150,
+    "SEED": 42
+  },
+  "split_parts": [
+    800,
+    100,
+    100
+  ]
+}
