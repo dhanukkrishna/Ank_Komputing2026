@@ -13,4 +13,5 @@ Face labels: 0 stock, 1 hole, 2 slot, 3 pocket, 4 chamfer, 5 fillet, 6 boss, 7 r
 Stocks: block, L, U, stepped, T. Every part has 1 guaranteed "focus" feature
 (cycled over the 7 types) plus random extras -> balanced class presence.
 Slot = open-ended channel across a face; pocket = closed rectangle.
+<br>
 **[Datasets](https://drive.google.com/drive/u/2/folders/1vO5I-w18YlLybtYrGVnJ9pJ24LY-kJdg)**
