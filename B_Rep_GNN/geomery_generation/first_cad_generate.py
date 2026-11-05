@@ -7,7 +7,7 @@ def generate_block(
     length=100,
     width=50,
     height=30,
-    output_path="Step Files/block/block_001.step"
+    output_path="D:\\ank_2026\\B_Rep_GNN\\Step Files\\block\\block_001.step"
 ):
 
     # Create a rectangular solid
