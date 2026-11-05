@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.log
+
+# Data / model artifacts
+*.pt
+*.pth
+*.ckpt
+*.onnx
+data/
+outputs/
+runs/
