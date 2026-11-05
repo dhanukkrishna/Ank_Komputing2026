@@ -16,5 +16,5 @@ python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
-Packages: PyTorch (CPU), PyTorch Geometric, NumPy, SciPy, NetworkX, trimesh,
-CadQuery OCP (OpenCASCADE), scikit-learn, matplotlib, pytest.
+Packages: PyTorch (CPU), PyTorch Geometric.
+CadQuery OCP (OpenCASCADE), scikit-learn, matplotlib.
