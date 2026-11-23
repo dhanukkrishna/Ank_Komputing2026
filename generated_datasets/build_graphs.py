@@ -1,6 +1,6 @@
 """
 build_graphs.py - STEP files -> face-adjacency graphs (same 11 node / 5 edge
-features as the 300-part L-bracket dataset) + per-face feature labels.
+features) + per-face feature labels.
 
 Usage:
     python build_graphs.py --data data --out data/graphs.pkl --workers 4
