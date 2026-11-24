@@ -15,3 +15,14 @@ Stocks: block, L, U, stepped, T. Every part has 1 guaranteed "focus" feature
 Slot = open-ended channel across a face; pocket = closed rectangle.
 <br>
 **[Datasets](https://drive.google.com/drive/u/2/folders/1vO5I-w18YlLybtYrGVnJ9pJ24LY-kJdg)**
+<br>
+# Project File Structure
+
+| File | Role |
+|------|------|
+| `Readme.md` | Instructions and overview of the dataset |
+| `cad_utils.py` | Shared geometry, signature and labeling functions |
+| `generate_cad_dataset.py` | Generates CAD models and establishes face labels |
+| `build_graphs.py` | Converts STEP models into graph data |
+| `gnn_face_classification.ipynb` | GNN training and experimentation notebook |
+| `results/` | Intended location for results |
